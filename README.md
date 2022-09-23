@@ -57,3 +57,8 @@ Step 3 : get th epackages and Build the example app
 Step 4 : Cick on ```generate Exception Button``` to generate platform exception
 
 App generate ```Null pointer exception``` and plugin logs it to the server at a given `url`
+
+
+## Sneek Peek
+<img src="https://user-images.githubusercontent.com/54329870/191937856-8d55c82e-786a-4565-b593-0fe2bc20fce8.jpeg"  width=250>
+<img src="https://user-images.githubusercontent.com/54329870/191937866-f4d28aa7-1164-4903-b649-81fb0193d033.jpeg"  width=250>

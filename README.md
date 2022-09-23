@@ -10,7 +10,7 @@ Step 2 : Add dependancy
 ```
 platfromexceptioncatcher:
     git:
-        url: https://github.com/.../.git
+        url: https://github.com/Amitpatil215/platformexceptioncatcher.git
 ```
 
 Step 3:

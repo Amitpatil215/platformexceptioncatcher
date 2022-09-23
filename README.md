@@ -40,7 +40,7 @@ void main() {
         // do something if platform exception occurs
     }),
     onHttpRequestFailedCallback: (error, stackTrace) {
-        // do something if loggin to server fails
+        // do something if logging to server fails
     },
   );
 }

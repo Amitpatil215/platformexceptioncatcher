@@ -60,5 +60,4 @@ App generate ```Null pointer exception``` and plugin logs it to the server at a 
 
 
 ## Sneek Peek
-<img src="https://user-images.githubusercontent.com/54329870/191937856-8d55c82e-786a-4565-b593-0fe2bc20fce8.jpeg"  width=250>
-<img src="https://user-images.githubusercontent.com/54329870/191937866-f4d28aa7-1164-4903-b649-81fb0193d033.jpeg"  width=250>
+<img src="https://user-images.githubusercontent.com/54329870/191937856-8d55c82e-786a-4565-b593-0fe2bc20fce8.jpeg"  width=250><img src="https://user-images.githubusercontent.com/54329870/191937866-f4d28aa7-1164-4903-b649-81fb0193d033.jpeg"  width=250>

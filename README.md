@@ -32,7 +32,7 @@ import 'package:platfromexceptioncatcher/platfromexceptioncatcher.dart';
 ```
 void main() {
 
-  // Initialize PlatfromExceptionCatcher and pass runApp as a positional argument  
+  // Initialize PlatfromExceptionCatcher  
   PlatfromExceptionCatcher.init(
     () => runApp(const MyApp()),
     url: "https://anyUrl.com/Api/log",
